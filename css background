@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("iiit new.png" );
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<p>Remote digital internship programe from IIIH .</p>
+
+</body>
+</html>

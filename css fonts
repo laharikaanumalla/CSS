@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>REMOTE DIGITAL INTERNSHIP</h1>
+<p class="serif">we are experience alot through this intern</p>
+<p class="sansserif">I am spending whole day to finsih the daily task list</p>
+<p class="monospace">It's really very good opportunity ...Thank you each and everyone :) </p>
+
+</body>
+</html>

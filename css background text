@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgrey;
+  color: Black;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>Remote digital internship programming</h1>
+<p>It is great experience for the all students in the conduria platform</p>
+
+
+</body>
+</html>
